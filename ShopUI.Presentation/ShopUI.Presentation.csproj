@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas\AdminArea\NewFolder\" />
+    <Folder Include="Areas\LandingPage\" />
+    <Folder Include="Areas\UserArea\" />
+    <Folder Include="Models\" />
+    <Folder Include="Pages\Admin\Banner\" />
+    <Folder Include="Pages\Admin\Shared\" />
+    <Folder Include="Pages\Admin\Ticket\" />
+    <Folder Include="Pages\Admin\Role\" />
+    <Folder Include="Pages\Admin\UsersSituation\" />
+    <Folder Include="Pages\Home\Landing\" />
+    <Folder Include="Pages\Home\Shared\" />
+    <Folder Include="Pages\UserPanel\Payment\" />
+    <Folder Include="Pages\UserPanel\Status\" />
+    <Folder Include="Pages\UserPanel\Ticket\" />
+    <Folder Include="Pages\UserPanel\Profile\" />
+  </ItemGroup>
+
+</Project>
